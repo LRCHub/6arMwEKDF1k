@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Dead or Like",
+  "base_artist": "DYES IWASAKI",
+  "createdAt": "2026-02-10T09:14:04.007315Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dead or Like",
+      "artist": "DYES IWASAKI",
+      "has_synced": false,
+      "path": "select/pl_01_Dead_or_Like_DYES_IWASAKI.txt"
+    }
+  ]
+}
